@@ -1,0 +1,4 @@
+Guesser ------- Guess the number and give to the umpire and umpire d=store it .
+guessnum()
+Umpire--------- umpire store the mumber and compare with the players numbers 
+Players-------- Guess the number and give to the umpire during chest list
