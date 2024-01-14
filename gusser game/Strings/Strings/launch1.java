@@ -40,6 +40,7 @@ class umpire {
         Gusser g = new Gusser();
         numfromguesser = g.guessingnumber();
     }
+    
 
     void collectnumfromplayers() {
 
