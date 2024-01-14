@@ -2,7 +2,6 @@ package Strings;
 import java.util.*;
 import javax.lang.model.util.ElementScanner6;
 
-
 class Gusser {
     int guessnum;
 
