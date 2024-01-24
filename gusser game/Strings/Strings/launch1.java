@@ -6,7 +6,7 @@ class Gusser {
     int guessnum;
 
     int guessingnumber(){ 
-  
+   
         Scanner scan=new Scanner(System.in);
         System.out.println("Guesser ! Kindly guess the number");
         guessnum =scan.nextInt();
