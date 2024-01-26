@@ -13,7 +13,7 @@ class Gusser {
         return guessnum;        
 
     }
-}
+} 
    
 
 class Player {
