@@ -14,7 +14,7 @@ class Gusser {
 
     }
 }
-  
+   
 
 class Player {
     int guessnum;
