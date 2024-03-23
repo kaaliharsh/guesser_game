@@ -4,7 +4,7 @@ import javax.lang.model.util.ElementScanner6;
 
 class Gusser {
     int guessnum;
- 
+  
     int guessingnumber(){   
         
         Scanner scan=new Scanner(System.in);
